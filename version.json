@@ -1,6 +1,6 @@
-﻿{
-  "version": "2026.05.14.1",
+{
+  "version": "2026.05.15.1",
   "url": "https://github.com/Fraudelefix/plzfix-releases/raw/main/PlzfixSetup.exe",
-  "sha256": "fe7ea9030f37d266a99541e50bcbb1f554c9f11fceeaae55b96c2989bf6d9688",
+  "sha256": "90c994cd8b6159f10efa1cd1bcf5efbf47ec661c9bd9eabbe2fcfdf3ebf9f84c",
   "signer_thumbprint": ""
 }
